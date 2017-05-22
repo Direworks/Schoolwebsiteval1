@@ -1,5 +1,5 @@
 <head>
-<b><i><center>Schoolwebsiteval1</center><b/><i/>
+<b><i><center>Computer Club Web Test</center><b/><i/>
 
 </head>
 
