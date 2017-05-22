@@ -1,7 +1,10 @@
-<head>
-<b><i><center>Computer Club Web Test</center><b/><i/>
+<html>
 
-</head>
+  <head>
+
+    <title>CompClub Test</title>
+
+  </head>
 
 <body>
 
